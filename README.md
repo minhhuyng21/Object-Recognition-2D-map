@@ -3,6 +3,5 @@
 ## Description
 This project refers to object recognition and visualize that to 2d tracking map......
 
-## Contributors
-- [Nguyen Minh Huy]  
-- Other contributors (if any)
+## Authors
+- **Nguyen Minh Huy** - [GitHub Profile](https://github.com/minhhuyng21)
